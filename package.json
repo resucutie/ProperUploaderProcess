@@ -1,0 +1,16 @@
+{
+  "name": "infiniteuploaderlook",
+  "version": "1.0.0",
+  "description": "meep",
+  "scripts": {
+    "build:windows": "ittai --betterdiscord=\"%appdata%/BetterDiscord/plugins\" --powercordv2 --goosemod",
+    "watch:windows": "ittai --betterdiscord=\"%appdata%/BetterDiscord/plugins\" --powercordv2 --goosemod --watch",
+    "production:windows": "ittai --betterdiscord=\"%appdata%/BetterDiscord/plugins\" --powercordv2 --goosemod --production"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^18.0.11",
+    "ittai": "^1.0.4"
+  }
+}

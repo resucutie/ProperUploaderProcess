@@ -1,0 +1,12 @@
+{
+    "output": "./.build",
+    "manifest": {
+        "name": "Proper Uploader Process",
+        "version": "0.1.0",
+        "license": "MIT",
+        "source": "https://bruh/moment",
+        "updateUrl": "https://bruh/moment",
+        "author": "A user",
+        "description": "Replaces the \"Processing\" message in the attachment uploader by a indeterminate progress bar"
+    }
+}
